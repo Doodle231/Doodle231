@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+
 # Hello! My name is Dan. 
 
 ## I m focused on front end development and web design
@@ -12,4 +12,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
