@@ -1,4 +1,4 @@
-
+![Banner](Banner.png)
 
 
 # Hello! My name is Dan. 
@@ -11,6 +11,4 @@
 
 - 📫 How to reach me: 
 
-- ⚡ Fun fact: My cat told me that if I don't get a job there will be " dire consequences " . I don't know what that means and I don't really want to find out
-
-![oscar](oscar.jpg)
+- ⚡ Fun fact: My cat told me that if I don't get a job there will be " dire consequences " . I don't know what that means and I don't really want to find 
